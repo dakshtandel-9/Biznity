@@ -2,9 +2,9 @@ import React from "react";
 
 const testimonials = [
   {
-    name: "Ayesha Khan",
+    name: "Ali Shaikh",
     review:
-      "“From consultation to business license — everything was handled swiftly and professionally.”\n\nThey even arranged my Freezone setup and residency in under 48 hours. Highly recommended!",
+      "“Great service and fast process.”\n\nThey helped me get my license and visa without any hassle. Really easy and smooth experience!",
   },
   {
     name: "Imran Yusuf",
@@ -17,6 +17,7 @@ const testimonials = [
       "“Incredible experience from start to finish.”\n\nThey answered every question I had and made the entire setup process seamless. I’ll definitely refer them!",
   },
 ];
+
 
 export default function Testimonials() {
   return (

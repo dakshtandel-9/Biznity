@@ -12,22 +12,21 @@ export default function HomeTestimonials() {
                     <div className="space-y-6 text-lg text-gray-300">
                         <div>
                             <p className="text-[#D5C299]">★★★★★</p>
-                            <p>{'"The fastest, easiest setup process I’ve ever had." – '}<strong>Alex D.</strong></p>
+                            <p>{'"Very fast and smooth process." – '}<strong>Samir P.</strong></p>
                         </div>
                         <div>
                             <p className="text-[#D5C299]">★★★★★</p>
-                            <p>{'"Highly recommend OpenZone to anyone launching in Dubai." – '}<strong>Priya S.</strong></p>
+                            <p>{'"Got my license and visa in no time!" – '}<strong>Fatima N.</strong></p>
                         </div>
                         <div>
                             <p className="text-[#D5C299]">★★★★★</p>
-                            <p>{'"Clear guidance and no surprises with fees." – '}<strong>Ahmed R.</strong></p>
+                            <p>{'"Clear, simple, and helpful service." – '}<strong>Karan V.</strong></p>
                         </div>
                         <div>
                             <p className="text-[#D5C299]">★★★★★</p>
-                            <p>{'"I launched my agency in 2 days, stress-free." – '}<strong>Sarah K.</strong></p>
+                            <p>{'"Made everything super easy for me." – '}<strong>Linda M.</strong></p>
                         </div>
                     </div>
-
 
                     <button className="mt-8 bg-[#D5C299] text-black px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition">
                         FREE CONSULTATION
