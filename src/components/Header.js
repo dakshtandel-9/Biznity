@@ -25,6 +25,7 @@ const Header = () => {
         <Link href="#cost-calculator">Cost Calculator</Link>
         <Link href="#packages">Packages</Link>
         <Link href="#how-it-works">How it Works</Link>
+        <Link href="#services">Our Services</Link>
         <Link href="#faqs">FAQs</Link>
       </nav>
 
