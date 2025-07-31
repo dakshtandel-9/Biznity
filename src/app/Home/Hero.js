@@ -19,7 +19,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-6xl mx-auto text-center">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight mb-4">
           Setup Your Dubai Business <br />
-          <span className="text-[#D5C299]">in Less Than 48 Hours.</span>
+          <span className="text-[#D5C299]">Quickly and Hassle-Free.</span>
         </h1>
         <p className="text-lg md:text-xl text-gray-300 mb-8">
           <span className="font-semibold text-white">Mainland, Freezone, or Offshore:</span> Launch Your Dubai Business in Just 48 Hours.
